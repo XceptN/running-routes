@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx version="1.1" creator="Movescount - http://www.movescount.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.cluetrust.com/XML/GPXDATA/1/0 http://www.cluetrust.com/Schemas/gpxdata10.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd" xmlns:gpxdata="http://www.cluetrust.com/XML/GPXDATA/1/0" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1">
+   <rte>
+      <name>Cayyolu10+117</name>
+      <rtept lat="39.867322" lon="32.653074">
+         <ele>973.4</ele>
+      </rtept>
+      <rtept lat="39.863967" lon="32.652466">
+         <ele>985.5</ele>
+      </rtept>
+      <rtept lat="39.860823" lon="32.652625">
+         <ele>986.6</ele>
+      </rtept>
+      <rtept lat="39.857338" lon="32.652021">
+         <ele>0</ele>
+      </rtept>
+      <rtept lat="39.856949" lon="32.652276">
+         <ele>0</ele>
+      </rtept>
+      <rtept lat="39.855763" lon="32.655022">
+         <ele>958.9</ele>
+      </rtept>
+      <rtept lat="39.852581" lon="32.661332">
+         <ele>939.2</ele>
+      </rtept>
+      <rtept lat="39.850358" lon="32.664962">
+         <ele>0</ele>
+      </rtept>
+      <rtept lat="39.850306" lon="32.665938">
+         <ele>933</ele>
+      </rtept>
+      <rtept lat="39.851083" lon="32.673059">
+         <ele>931.4</ele>
+      </rtept>
+      <rtept lat="39.851494" lon="32.673843">
+         <ele>0</ele>
+      </rtept>
+      <rtept lat="39.852509" lon="32.675361">
+         <ele>924.5</ele>
+      </rtept>
+      <rtept lat="39.855241" lon="32.677066">
+         <ele>920.8</ele>
+      </rtept>
+      <rtept lat="39.855905" lon="32.677699">
+         <ele>919</ele>
+      </rtept>
+      <rtept lat="39.85711" lon="32.678453">
+         <ele>919</ele>
+      </rtept>
+      <rtept lat="39.857902" lon="32.67878">
+         <ele>917.1</ele>
+      </rtept>
+      <rtept lat="39.85956" lon="32.678668">
+         <ele>915</ele>
+      </rtept>
+      <rtept lat="39.86068" lon="32.679319">
+         <ele>0</ele>
+      </rtept>
+      <rtept lat="39.861429" lon="32.680884">
+         <ele>910.3</ele>
+      </rtept>
+      <rtept lat="39.862154" lon="32.68185">
+         <ele>909.6</ele>
+      </rtept>
+      <rtept lat="39.863997" lon="32.682752">
+         <ele>909.8</ele>
+      </rtept>
+      <rtept lat="39.86669" lon="32.684821">
+         <ele>907</ele>
+      </rtept>
+      <rtept lat="39.867565" lon="32.685292">
+         <ele>904.1</ele>
+      </rtept>
+      <rtept lat="39.872509" lon="32.68777">
+         <ele>893.2</ele>
+      </rtept>
+      <rtept lat="39.873102" lon="32.68791">
+         <ele>0</ele>
+      </rtept>
+      <rtept lat="39.87356" lon="32.687828">
+         <ele>0</ele>
+      </rtept>
+      <rtept lat="39.873733" lon="32.687562">
+         <ele>893.4</ele>
+      </rtept>
+      <rtept lat="39.873942" lon="32.684732">
+         <ele>891</ele>
+      </rtept>
+      <rtept lat="39.874524" lon="32.683018">
+         <ele>891.2</ele>
+      </rtept>
+      <rtept lat="39.875902" lon="32.680145">
+         <ele>0</ele>
+      </rtept>
+      <rtept lat="39.878233" lon="32.677422">
+         <ele>0</ele>
+      </rtept>
+      <rtept lat="39.878258" lon="32.677017">
+         <ele>0</ele>
+      </rtept>
+      <rtept lat="39.876467" lon="32.67322">
+         <ele>904.9</ele>
+      </rtept>
+      <rtept lat="39.874117" lon="32.669348">
+         <ele>918.2</ele>
+      </rtept>
+      <rtept lat="39.873386" lon="32.667874">
+         <ele>926.9</ele>
+      </rtept>
+      <rtept lat="39.872957" lon="32.665913">
+         <ele>0</ele>
+      </rtept>
+      <rtept lat="39.873108" lon="32.661874">
+         <ele>0</ele>
+      </rtept>
+      <rtept lat="39.872896" lon="32.661482">
+         <ele>0</ele>
+      </rtept>
+      <rtept lat="39.869884" lon="32.659071">
+         <ele>949.8</ele>
+      </rtept>
+      <rtept lat="39.868872" lon="32.657618">
+         <ele>956.8</ele>
+      </rtept>
+      <rtept lat="39.868471" lon="32.655457">
+         <ele>962.8</ele>
+      </rtept>
+      <rtept lat="39.868615" lon="32.653804">
+         <ele>0</ele>
+      </rtept>
+      <rtept lat="39.868594" lon="32.653224">
+         <ele>0</ele>
+      </rtept>
+      <rtept lat="39.8675" lon="32.653112">
+         <ele>973.4</ele>
+      </rtept>
+   </rte>
+   <wpt lat="39.867322" lon="32.653074">
+      <ele>973.4</ele>
+      <name>Start</name>
+   </wpt>
+   <wpt lat="39.8675" lon="32.653112">
+      <ele>973.4</ele>
+      <name>Finish</name>
+   </wpt>
+</gpx>
