@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx version="1.0" creator="GpsPrune v20 activityworkshop.net"
+<gpx version="1.0" creator="GpsPrune v20.4 activityworkshop.net"
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
  xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
 
-	<name>Eymir Patika 17K 380m</name>
-	<desc>Eymir Patika 17K 380m</desc>
+	<name>Eymir Patika 17K 400m</name>
+	<desc>Eymir Patika 17K 400m</desc>
 	<trk>
-		<name>Eymir Patika 17K 380m</name>
+		<name>Eymir Patika 17K 400m</name>
 		<number>1</number>
 		<trkseg>
-			<trkpt lat="39.84645417913267" lon="32.83845663070679">
-				<ele>1164</ele>
-			</trkpt>
 			<trkpt lat="39.844055555555556" lon="32.83847222222223">
 				<ele>1182</ele>
 			</trkpt>
