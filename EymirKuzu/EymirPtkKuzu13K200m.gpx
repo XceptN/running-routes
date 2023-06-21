@@ -4,57 +4,27 @@
   xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
   xmlns="http://www.topografix.com/GPX/1/1"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
-  <metadata>
-    <name>EymirPtkKuzu 13K 200m</name>
-    <link href="connect.garmin.com">
-      <text>Garmin Connect</text>
-    </link>
-    <time>2023-06-02T08:42:34.000Z</time>
-  </metadata>
-  <trk>
-    <name>EymirPtkKuzu 13K 200m</name>
-    <trkseg>
-      <trkpt lat="39.84393353573978" lon="32.82588235102594">
-        <ele>1186.42</ele>
-        <time>2023-06-02T08:42:34.000Z</time>
-      </trkpt>
-      <trkpt lat="39.8441188596189" lon="32.82607010565698">
-        <ele>1187.95</ele>
-        <time>2023-06-02T08:42:34.008Z</time>
-      </trkpt>
-      <trkpt lat="39.84394175000489" lon="32.826740741729736">
-        <ele>1182.01</ele>
-        <time>2023-06-02T08:42:34.034Z</time>
-      </trkpt>
-      <trkpt lat="39.844073513522744" lon="32.82718054018915">
-        <ele>1181.08</ele>
-        <time>2023-06-02T08:42:34.072Z</time>
-      </trkpt>
-      <trkpt lat="39.84396236948669" lon="32.827722346410155">
-        <ele>1180.91</ele>
-        <time>2023-06-02T08:42:34.125Z</time>
-      </trkpt>
-      <trkpt lat="39.844024144113064" lon="32.82858610153198">
-        <ele>1182.99</ele>
-        <time>2023-06-02T08:42:34.200Z</time>
-      </trkpt>
-      <trkpt lat="39.844275349751115" lon="32.82920837402344">
-        <ele>1185.14</ele>
-        <time>2023-06-02T08:42:34.293Z</time>
-      </trkpt>
-      <trkpt lat="39.84417241998017" lon="32.829465782269835">
+	<metadata>
+		<name>EymirPtkKuzu 13K 200m</name>
+		<desc>EymirPtkKuzu 13K 200m</desc>
+	</metadata>
+	<trk>
+		<name>EymirPtkKuzu 13K 200m</name>
+		<number>1</number>
+		<trkseg>
+      <trkpt lat="39.84455134365197" lon="32.829497968778014">
         <ele>1183.13</ele>
         <time>2023-06-02T08:42:34.393Z</time>
       </trkpt>
-      <trkpt lat="39.84420946799219" lon="32.83013097010553">
+      <trkpt lat="39.84455544153043" lon="32.83017388544977">
         <ele>1184.43</ele>
         <time>2023-06-02T08:42:34.510Z</time>
       </trkpt>
-      <trkpt lat="39.84442773275077" lon="32.83054403029382">
+      <trkpt lat="39.844551294513764" lon="32.83064058981836">
         <ele>1184.93</ele>
         <time>2023-06-02T08:42:34.640Z</time>
       </trkpt>
-      <trkpt lat="39.84441130422056" lon="32.832223093137145">
+      <trkpt lat="39.844600765613215" lon="32.83214799128473">
         <ele>1181.13</ele>
         <time>2023-06-02T08:42:34.813Z</time>
       </trkpt>
@@ -1514,30 +1484,36 @@
         <ele>1181.36</ele>
         <time>2023-06-02T08:54:34.760Z</time>
       </trkpt>
-      <trkpt lat="39.84309911727905" lon="32.820754051208496">
+      <trkpt lat="39.84320620622163" lon="32.820786237716675">
         <ele>1182.07</ele>
         <time>2023-06-02T08:54:38.465Z</time>
       </trkpt>
-      <trkpt lat="39.84324932098389" lon="32.822052240371704">
+      <trkpt lat="39.84338936005113" lon="32.82184839248657">
         <ele>1183.6</ele>
         <time>2023-06-02T08:54:42.204Z</time>
       </trkpt>
-      <trkpt lat="39.84335660934448" lon="32.822803258895874">
+      <trkpt lat="39.843546073669366" lon="32.82256722450256">
         <ele>1185.47</ele>
         <time>2023-06-02T08:54:45.963Z</time>
       </trkpt>
-      <trkpt lat="39.843356693163514" lon="32.822803258895874">
+      <trkpt lat="39.84360382046968" lon="32.822781801223755">
         <ele>1186.55</ele>
         <time>2023-06-02T08:54:49.722Z</time>
       </trkpt>
-      <trkpt lat="39.843538999557495" lon="32.82346844673157">
+      <trkpt lat="39.8437778885273" lon="32.82333970069885">
         <ele>1188.1</ele>
         <time>2023-06-02T08:54:53.499Z</time>
       </trkpt>
-      <trkpt lat="39.843786181882024" lon="32.82499596476555">
+			<trkpt lat="39.84402777777778" lon="32.82458333333334">
+				<ele>1192.4818050663473</ele>
+			</trkpt>
+			<trkpt lat="39.84422222222222" lon="32.82558333333334">
+				<ele>1191.7123407749616</ele>
+			</trkpt>
+      <trkpt lat="39.84444518156943" lon="32.82815024256706">
         <ele>1188.36</ele>
         <time>2023-06-02T08:54:57.316Z</time>
       </trkpt>
-    </trkseg>
-  </trk>
+		</trkseg>
+	</trk>
 </gpx>

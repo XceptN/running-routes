@@ -2,22 +2,12 @@
 <gpx version="1.0" creator="GpsPrune v23 activityworkshop.net"
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
  xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
-
 	<name>Eymir Patika Kuzu 15K 314m</name>
 	<desc>Eymir Patika Kuzu 15K 314m</desc>
 	<trk>
 		<name>Eymir Patika Kuzu 15K 314m</name>
 		<number>1</number>
 		<trkseg>
-			<trkpt lat="39.84426090001219" lon="32.82603197477722">
-				<ele>1182.74</ele>
-			</trkpt>
-			<trkpt lat="39.84430555555556" lon="32.828250000000004">
-				<ele>1189.54179052288</ele>
-			</trkpt>
-			<trkpt lat="39.844527777777785" lon="32.82897222222223">
-				<ele>1188.8947003366854</ele>
-			</trkpt>
 			<trkpt lat="39.844527777777785" lon="32.83030555555556">
 				<ele>1186.5047245862656</ele>
 			</trkpt>
@@ -741,7 +731,16 @@
 			<trkpt lat="39.844003" lon="32.824746">
 				<ele>1192.23</ele>
 			</trkpt>
-			<trkpt lat="39.844223" lon="32.825204">
+			<trkpt lat="39.84425" lon="32.82541666666667">
+				<ele>1191.975121843072</ele>
+			</trkpt>
+			<trkpt lat="39.84436111111111" lon="32.82627777777778">
+				<ele>1192.1671703190605</ele>
+			</trkpt>
+			<trkpt lat="39.84441666666667" lon="32.82741666666667">
+				<ele>1189.14960930646</ele>
+			</trkpt>
+			<trkpt lat="39.844445411837505" lon="32.828047141555786">
 				<ele>1192.15</ele>
 			</trkpt>
 		</trkseg>
